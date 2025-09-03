@@ -1,6 +1,6 @@
-**🧾 🎯 Role title: Drone Development Team Lead – Barcelona Smart Drone Challenge 2019** 
-**📍 Location:** Aero-association Split, Ruđera Boškovića 32, HR-21000 Split, Croatia  
-📅 Project Timeline: Dec 2018 – May 2019  
+**🧾 🎯 Role title:** **Drone Development Team Lead – Barcelona Smart Drone Challenge 2019  
+📍 Location:** Aero-association Split, Ruđera Boškovića 32, HR-21000 Split, Croatia  
+**📅 Project Timeline:** Dec 2018 – May 2019  
 🎥 YouTube Demo: Not available  
 📦 GitHub Source Code: Not available
 
