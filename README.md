@@ -34,4 +34,4 @@ Due to **insufficient sponsorship**, the team **did not participate in the tourn
 **Drone Development, Battery & Propulsion Systems, eCalc.ch, Digital Radio Communication, Signal Encryption, Drone Frame Design, ArduPilot Mission Planner, Pixhawk, Odroid, Autonomous Flight, Object Detection, Target Recognition, Package Delivery**
 
 📣 **Hashtags:**  
-# **DroneDevelopment** #**UAV** #**AutonomousSystems** #**PropulsionDesign** #**BatterySystems** #**RadioCommunication** #**SignalEncryption** #**FrameDesign** #**ArduPilot** #**Pixhawk** #**Odroid** #**SmartDroneChallenge** #**TeamLead** #**AerospaceEngineering** #**AutonomousFlight** #**ObjectDetection** #**PackageDelivery**
+\# #**DroneDevelopment** #**UAV** #**AutonomousSystems** #**PropulsionDesign** #**BatterySystems** #**RadioCommunication** #**SignalEncryption** #**FrameDesign** #**ArduPilot** #**Pixhawk** #**Odroid** #**SmartDroneChallenge** #**TeamLead** #**AerospaceEngineering** #**AutonomousFlight** #**ObjectDetection** #**PackageDelivery**
