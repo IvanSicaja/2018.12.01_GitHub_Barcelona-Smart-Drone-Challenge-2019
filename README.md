@@ -2,7 +2,7 @@
 📍 Location:** Aero-association Split, Ruđera Boškovića 32, HR-21000 Split, Croatia  
 **📅 Project Timeline:** Dec 2018 – May 2019  
 🎥 YouTube Demo: Not available  
-📦 GitHub: <https://github.com/IvanSicaja/2018.12.01_GitHub_Barcelona-Smart-Drone-Challenge-2019>  
+📦 GitHub: <https://github.com/IvanSicaja/2018.12.01_GitHub_ROLE_Barcelona-Smart-Drone-Challenge-2019>  
 \----------------------------------------------------------------------------------------------------------------
 
 🏷️ My Personal Profiles: ⬇︎  
