@@ -36,8 +36,8 @@ Due to **insufficient sponsorship**, the team **did not participate in the tourn
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2018.12.01_GitHub_Barcelona-Smart-Drone-Challenge-2019/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
-       alt="Barcelona Smart Drone Challenge Preview 1" 
+  <img src="https://github.com/IvanSicaja/2018.12.01_GitHub_ROLE_Barcelona-Smart-Drone-Challenge-2019/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
+       alt="ROLE Barcelona Smart Drone Challenge Preview 1" 
        width="640" 
        height="1000">
 </p>
@@ -50,6 +50,7 @@ Due to **insufficient sponsorship**, the team **did not participate in the tourn
 Not available.
 
 ---
+
 
 📣 **Hashtags:**  
 \# #**DroneDevelopment** #**UAV** #**AutonomousSystems** #**PropulsionDesign** #**BatterySystems** #**RadioCommunication** #**SignalEncryption** #**FrameDesign** #**ArduPilot** #**Pixhawk** #**Odroid** #**SmartDroneChallenge** #**TeamLead** #**AerospaceEngineering** #**AutonomousFlight** #**ObjectDetection** #**PackageDelivery**
