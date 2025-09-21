@@ -31,5 +31,25 @@ Due to **insufficient sponsorship**, the team **did not participate in the tourn
 🔧 **Tech Stack:**  
 **Drone Development, Battery & Propulsion Systems, eCalc.ch, Digital Radio Communication, Signal Encryption, Drone Frame Design, ArduPilot Mission Planner, Pixhawk, Odroid, Autonomous Flight, Object Detection, Target Recognition, Package Delivery**
 
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2018.12.01_GitHub_Barcelona-Smart-Drone-Challenge-2019/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
+       alt="Barcelona Smart Drone Challenge Preview 1" 
+       width="640" 
+       height="1000">
+</p>
+
+
+---
+
+### 🎥 Video Demonstration
+
+Not available.
+
+---
+
 📣 **Hashtags:**  
 \# #**DroneDevelopment** #**UAV** #**AutonomousSystems** #**PropulsionDesign** #**BatterySystems** #**RadioCommunication** #**SignalEncryption** #**FrameDesign** #**ArduPilot** #**Pixhawk** #**Odroid** #**SmartDroneChallenge** #**TeamLead** #**AerospaceEngineering** #**AutonomousFlight** #**ObjectDetection** #**PackageDelivery**
